@@ -208,7 +208,7 @@ window.CATEGORY_PAGES = {
     title: "Leadership Camp + Public Speaking 2025",
     kicker: "Past event",
     summary: "August 11 - August 22. A leadership camp expanded with daily public speaking practice and final student presentations.",
-    image: "https://static.wixstatic.com/media/eab718_343fe595f0844c47964b208b0801ddff~mv2.jpg/v1/fill/w_147,h_196,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Teamwork!",
+    image: "https://static.wixstatic.com/media/eab718_343fe595f0844c47964b208b0801ddff~mv2.jpg/v1/fill/w_900,h_1200,al_c,q_90,enc_avif,quality_auto/Teamwork.jpg",
     sections: [
       {
         heading: "Program recap",
@@ -218,9 +218,9 @@ window.CATEGORY_PAGES = {
           "This year, public speaking was adapted into the leadership camp. Students strengthened speaking skills daily and presented final projects to parents."
         ],
         images: [
-          { src: "https://static.wixstatic.com/media/eab718_343fe595f0844c47964b208b0801ddff~mv2.jpg/v1/fill/w_147,h_196,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Teamwork!", caption: "Teamwork" },
-          { src: "https://static.wixstatic.com/media/eab718_c586e7e2038f4599936ea46b5e698d09~mv2.jpg/v1/fill/w_147,h_196,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Final%20Project!", caption: "Final Project" },
-          { src: "https://static.wixstatic.com/media/eab718_c498a3c9b4574a1da37d598f078124c2~mv2.jpg/v1/fill/w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Class%20Bonding!", caption: "Class Bonding" }
+          { src: "https://static.wixstatic.com/media/eab718_343fe595f0844c47964b208b0801ddff~mv2.jpg/v1/fill/w_900,h_1200,al_c,q_90,enc_avif,quality_auto/Teamwork.jpg", caption: "Teamwork" },
+          { src: "https://static.wixstatic.com/media/eab718_c586e7e2038f4599936ea46b5e698d09~mv2.jpg/v1/fill/w_900,h_1200,al_c,q_90,enc_avif,quality_auto/Final-Project.jpg", caption: "Final Project" },
+          { src: "https://static.wixstatic.com/media/eab718_c498a3c9b4574a1da37d598f078124c2~mv2.jpg/v1/fill/w_1200,h_675,al_c,q_90,enc_avif,quality_auto/Class-Bonding.jpg", caption: "Class Bonding" }
         ]
       }
     ],
@@ -232,7 +232,7 @@ window.CATEGORY_PAGES = {
     title: "Public Speaking Club 2024",
     kicker: "Past event",
     summary: "July 21 - August 16. A practice-based online summer club for students in grades 4 to 9.",
-    image: "https://static.wixstatic.com/media/1c91a4_e0e6329e967449dd882a9b554c2172f7~mv2.png/v1/fill/w_403,h_523,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1c91a4_e0e6329e967449dd882a9b554c2172f7~mv2.png",
+    image: "https://static.wixstatic.com/media/1c91a4_e0e6329e967449dd882a9b554c2172f7~mv2.png/v1/fill/w_900,h_1170,al_c,q_90,enc_avif,quality_auto/Public-Speaking-Club-2024.png",
     sections: [
       {
         heading: "Program recap",
@@ -242,7 +242,7 @@ window.CATEGORY_PAGES = {
           "The curriculum covered body language, vocal variation, vocal expression, and character expression."
         ],
         images: [
-          { src: "https://static.wixstatic.com/media/1c91a4_e0e6329e967449dd882a9b554c2172f7~mv2.png/v1/fill/w_403,h_523,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1c91a4_e0e6329e967449dd882a9b554c2172f7~mv2.png", caption: "Public Speaking Club 2024" }
+          { src: "https://static.wixstatic.com/media/1c91a4_e0e6329e967449dd882a9b554c2172f7~mv2.png/v1/fill/w_900,h_1170,al_c,q_90,enc_avif,quality_auto/Public-Speaking-Club-2024.png", caption: "Public Speaking Club 2024" }
         ]
       }
     ],
@@ -254,7 +254,7 @@ window.CATEGORY_PAGES = {
     title: "Leadership Camp 2024",
     kicker: "Past event",
     summary: "A sister program to the successful 2023 Leadership Camp, focused on the 8 Principles of Effective Leadership.",
-    image: "https://static.wixstatic.com/media/1c91a4_d14f8f29380045839c5a7005a0ab2098~mv2.jpeg/v1/fill/w_147,h_110,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Leadership%20Team",
+    image: "https://static.wixstatic.com/media/1c91a4_d14f8f29380045839c5a7005a0ab2098~mv2.jpeg/v1/fill/w_1200,h_900,al_c,q_90,enc_avif,quality_auto/Leadership-Team.jpeg",
     sections: [
       {
         heading: "Program recap",
@@ -263,9 +263,9 @@ window.CATEGORY_PAGES = {
           "Students practiced leadership through lectures, posters, skits, whiteboard presentations, discussions, and a final project addressing an issue in their school."
         ],
         images: [
-          { src: "https://static.wixstatic.com/media/1c91a4_dd3d231e3e394eb79b3e42dc18b7c302~mv2.png/v1/fill/w_49,h_65,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Whiteboard%20Activity", caption: "Whiteboard Activity" },
-          { src: "https://static.wixstatic.com/media/1c91a4_d14f8f29380045839c5a7005a0ab2098~mv2.jpeg/v1/fill/w_147,h_110,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Leadership%20Team", caption: "Leadership Team" },
-          { src: "https://static.wixstatic.com/media/1c91a4_447f69d6fe234a2dbfd6aed29973f06d~mv2.jpeg/v1/fill/w_147,h_110,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Presentation%20Practice", caption: "Presentation Practice" }
+          { src: "https://static.wixstatic.com/media/1c91a4_dd3d231e3e394eb79b3e42dc18b7c302~mv2.png/v1/fill/w_900,h_1200,al_c,q_90,enc_avif,quality_auto/Whiteboard-Activity.png", caption: "Whiteboard Activity" },
+          { src: "https://static.wixstatic.com/media/1c91a4_d14f8f29380045839c5a7005a0ab2098~mv2.jpeg/v1/fill/w_1200,h_900,al_c,q_90,enc_avif,quality_auto/Leadership-Team.jpeg", caption: "Leadership Team" },
+          { src: "https://static.wixstatic.com/media/1c91a4_447f69d6fe234a2dbfd6aed29973f06d~mv2.jpeg/v1/fill/w_1200,h_900,al_c,q_90,enc_avif,quality_auto/Presentation-Practice.jpeg", caption: "Presentation Practice" }
         ]
       }
     ],
@@ -277,7 +277,7 @@ window.CATEGORY_PAGES = {
     title: "Public Speaking Club 2023",
     kicker: "Past event",
     summary: "August - September 2023. A free online summer speaking club and the foundation of Yuyuan Huang's Girl Scout Gold Award project.",
-    image: "https://static.wixstatic.com/media/1c91a4_79545a5392bd4a42ab5dca599b6fa209~mv2.png/v1/fill/w_600,h_279,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screenshot%202024-07-08%20at%201.50.44%20PM.png",
+    image: "https://static.wixstatic.com/media/1c91a4_79545a5392bd4a42ab5dca599b6fa209~mv2.png/v1/fill/w_1200,h_558,al_c,q_90,enc_avif,quality_auto/Public-Speaking-Club-2023.png",
     sections: [
       {
         heading: "Program recap",
@@ -287,7 +287,7 @@ window.CATEGORY_PAGES = {
           "The Public Speaking Club became the foundation of Yuyuan's Gold Award project."
         ],
         images: [
-          { src: "https://static.wixstatic.com/media/1c91a4_79545a5392bd4a42ab5dca599b6fa209~mv2.png/v1/fill/w_600,h_279,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screenshot%202024-07-08%20at%201.50.44%20PM.png", caption: "Public Speaking Club 2023" }
+          { src: "https://static.wixstatic.com/media/1c91a4_79545a5392bd4a42ab5dca599b6fa209~mv2.png/v1/fill/w_1200,h_558,al_c,q_90,enc_avif,quality_auto/Public-Speaking-Club-2023.png", caption: "Public Speaking Club 2023" }
         ]
       }
     ],
@@ -299,7 +299,7 @@ window.CATEGORY_PAGES = {
     title: "Leadership Camp 2023",
     kicker: "Past event",
     summary: "June 2023. A one-week in-person summer camp introducing students to the 8 Principles of Effective Leadership.",
-    image: "https://static.wixstatic.com/media/1c91a4_fc7dc05adec9406f87523fffe2d94f12~mv2.png/v1/fill/w_249,h_249,fp_0.5_0.46,q_90,enc_avif,quality_auto/1c91a4_fc7dc05adec9406f87523fffe2d94f12~mv2.png",
+    image: "https://static.wixstatic.com/media/1c91a4_fc7dc05adec9406f87523fffe2d94f12~mv2.png/v1/fill/w_900,h_900,fp_0.5_0.46,q_90,enc_avif,quality_auto/Leadership-Camp-2023.png",
     sections: [
       {
         heading: "Program recap",
@@ -308,9 +308,9 @@ window.CATEGORY_PAGES = {
           "Students practiced proactive thinking, positive feedback, synergy, skits, whiteboard presentations, and a final project about welcoming a new student to town."
         ],
         images: [
-          { src: "https://static.wixstatic.com/media/1c91a4_fc7dc05adec9406f87523fffe2d94f12~mv2.png/v1/fill/w_249,h_249,fp_0.5_0.46,q_90,enc_avif,quality_auto/1c91a4_fc7dc05adec9406f87523fffe2d94f12~mv2.png", caption: "Leadership Camp 2023" },
-          { src: "https://static.wixstatic.com/media/1c91a4_221f5a75afb54377968e9e30e01d58af~mv2.png/v1/fill/w_250,h_249,fp_0.68_0.23,q_90,enc_avif,quality_auto/1c91a4_221f5a75afb54377968e9e30e01d58af~mv2.png", caption: "Camp activity" },
-          { src: "https://static.wixstatic.com/media/1c91a4_ecd09049ff4f451fb14a806e3dae8dc6~mv2.png/v1/fill/w_249,h_249,q_90,enc_avif,quality_auto/1c91a4_ecd09049ff4f451fb14a806e3dae8dc6~mv2.png", caption: "Student work" }
+          { src: "https://static.wixstatic.com/media/1c91a4_fc7dc05adec9406f87523fffe2d94f12~mv2.png/v1/fill/w_900,h_900,fp_0.5_0.46,q_90,enc_avif,quality_auto/Leadership-Camp-2023.png", caption: "Leadership Camp 2023" },
+          { src: "https://static.wixstatic.com/media/1c91a4_221f5a75afb54377968e9e30e01d58af~mv2.png/v1/fill/w_900,h_900,fp_0.68_0.23,q_90,enc_avif,quality_auto/Camp-Activity.png", caption: "Camp activity" },
+          { src: "https://static.wixstatic.com/media/1c91a4_ecd09049ff4f451fb14a806e3dae8dc6~mv2.png/v1/fill/w_900,h_900,q_90,enc_avif,quality_auto/Student-Work.png", caption: "Student work" }
         ]
       }
     ],
@@ -322,7 +322,7 @@ window.CATEGORY_PAGES = {
     title: "Summer 2022",
     kicker: "Past event",
     summary: "July - August 2022. Session Four focused on public speaking and creative writing.",
-    image: "https://static.wixstatic.com/media/1c91a4_e72facabca824540b2d3585f65e0d47c~mv2.png/v1/fill/w_310,h_310,q_90,enc_avif,quality_auto/1c91a4_e72facabca824540b2d3585f65e0d47c~mv2.png",
+    image: "https://static.wixstatic.com/media/1c91a4_e72facabca824540b2d3585f65e0d47c~mv2.png/v1/fill/w_900,h_900,q_90,enc_avif,quality_auto/Summer-2022.png",
     sections: [
       {
         heading: "Session Four",
@@ -331,9 +331,9 @@ window.CATEGORY_PAGES = {
           "This session focused on public speaking and creative writing, two of the program's most popular class options. More than 20 students signed up for each class."
         ],
         images: [
-          { src: "https://static.wixstatic.com/media/1c91a4_e72facabca824540b2d3585f65e0d47c~mv2.png/v1/fill/w_310,h_310,q_90,enc_avif,quality_auto/1c91a4_e72facabca824540b2d3585f65e0d47c~mv2.png", caption: "Summer 2022" },
-          { src: "https://static.wixstatic.com/media/1c91a4_6bfc81b411b54ea7affac9602fa6a08e~mv2.png/v1/fill/w_310,h_310,q_90,enc_avif,quality_auto/1c91a4_6bfc81b411b54ea7affac9602fa6a08e~mv2.png", caption: "Class sample" },
-          { src: "https://static.wixstatic.com/media/1c91a4_ed92c098c7eb4ce99d42639ec519280b~mv2.png/v1/fill/w_310,h_310,q_90,enc_avif,quality_auto/1c91a4_ed92c098c7eb4ce99d42639ec519280b~mv2.png", caption: "Student work" }
+          { src: "https://static.wixstatic.com/media/1c91a4_e72facabca824540b2d3585f65e0d47c~mv2.png/v1/fill/w_900,h_900,q_90,enc_avif,quality_auto/Summer-2022.png", caption: "Summer 2022" },
+          { src: "https://static.wixstatic.com/media/1c91a4_6bfc81b411b54ea7affac9602fa6a08e~mv2.png/v1/fill/w_900,h_900,q_90,enc_avif,quality_auto/Class-Sample.png", caption: "Class sample" },
+          { src: "https://static.wixstatic.com/media/1c91a4_ed92c098c7eb4ce99d42639ec519280b~mv2.png/v1/fill/w_900,h_900,q_90,enc_avif,quality_auto/Student-Work.png", caption: "Student work" }
         ]
       }
     ],
@@ -345,7 +345,7 @@ window.CATEGORY_PAGES = {
     title: "Winter 2021",
     kicker: "Past event",
     summary: "November 2021 - January 2022. Session Three offered the widest variety of classes so far.",
-    image: "https://static.wixstatic.com/media/1c91a4_92f918903c0d4fb8b5b6ce54d04f0d8b~mv2.png/v1/fill/w_41,h_27,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/1c91a4_92f918903c0d4fb8b5b6ce54d04f0d8b~mv2.png",
+    image: "https://static.wixstatic.com/media/1c91a4_92f918903c0d4fb8b5b6ce54d04f0d8b~mv2.png/v1/fill/w_1200,h_800,al_c,q_90,enc_avif,quality_auto/Winter-2021.png",
     sections: [
       {
         heading: "Session Three",
@@ -363,7 +363,7 @@ window.CATEGORY_PAGES = {
     title: "Fall 2020",
     kicker: "Past event",
     summary: "September - December 2020. Session Two expanded Creative Classroom's course offerings.",
-    image: "https://static.wixstatic.com/media/1c91a4_b11a5a290e8c40beb866f5c4c351ab81~mv2.png/v1/fill/w_48,h_27,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/1c91a4_b11a5a290e8c40beb866f5c4c351ab81~mv2.png",
+    image: "https://static.wixstatic.com/media/1c91a4_b11a5a290e8c40beb866f5c4c351ab81~mv2.png/v1/fill/w_1200,h_675,al_c,q_90,enc_avif,quality_auto/Fall-2020.png",
     sections: [
       {
         heading: "Session Two",
@@ -381,7 +381,7 @@ window.CATEGORY_PAGES = {
     title: "Spring 2020",
     kicker: "Past event",
     summary: "March - May 2020. The first Creative Classroom session began during the COVID-19 lockdown.",
-    image: "https://static.wixstatic.com/media/1c91a4_b7f9a8a42f37414a807f768ec5cee2d0~mv2.png/v1/fill/w_506,h_297,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screenshot%202024-07-08%20at%204.37.33%20PM.png",
+    image: "https://static.wixstatic.com/media/1c91a4_b7f9a8a42f37414a807f768ec5cee2d0~mv2.png/v1/fill/w_1200,h_704,al_c,q_90,enc_avif,quality_auto/Spring-2020.png",
     sections: [
       {
         heading: "Session One",
@@ -391,8 +391,8 @@ window.CATEGORY_PAGES = {
           "The first session had around 20 students signed up for English, math, and history classes, and nearly $600 was raised for MGH in the first month."
         ],
         images: [
-          { src: "https://static.wixstatic.com/media/1c91a4_b7f9a8a42f37414a807f768ec5cee2d0~mv2.png/v1/fill/w_506,h_297,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screenshot%202024-07-08%20at%204.37.33%20PM.png", caption: "Spring 2020" },
-          { src: "https://static.wixstatic.com/media/1c91a4_f0eb1e62e2064db3b3f48a88d52e30fc~mv2.png/v1/fill/w_417,h_297,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screenshot%202024-07-08%20at%204.37.45%20PM.png", caption: "Early class materials" }
+          { src: "https://static.wixstatic.com/media/1c91a4_b7f9a8a42f37414a807f768ec5cee2d0~mv2.png/v1/fill/w_1200,h_704,al_c,q_90,enc_avif,quality_auto/Spring-2020.png", caption: "Spring 2020" },
+          { src: "https://static.wixstatic.com/media/1c91a4_f0eb1e62e2064db3b3f48a88d52e30fc~mv2.png/v1/fill/w_1200,h_855,al_c,q_90,enc_avif,quality_auto/Early-Class-Materials.png", caption: "Early class materials" }
         ]
       }
     ],
